@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @E3-ib
-- 👀 I’m interested in frontend
+- 👀 I’m interested in web development, special in frontend 👩‍💻
 - 🌱 I’m currently learning python, html, css, sass and javascript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
